@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="zh-CH">
+<head>
+    <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>html</title>
+    <style>
+    .link{
+        position:fixed;
+        text-decoration: none;
+        color:white;
+        left:30px;
+        bottom: 30px;
+    }
+    .header{
+        border-style:dotted;
+        background-color:rgba(0,0,0,0.4 );
+        text-align:center;
+        padding:3px ;
+        font-family:楷体;
+        color:white;
+        font-size:20px;
+        letter-spacing: 1.5em;
+    }
+    .container{
+        margin:10px auto;
+        box-sizing: border-box;
+        display: flex;
+        height:600px;
+    }
+    .left{
+        flex:2;
+        padding-top: 20px;
+        padding-right: 10px;
+        background-color: rgba(0,0,0,0.4 );
+        border-right-color: rgb(248, 246, 242);
+        border-right-style: dotted;
+        border-right-width: 3px;
+        text-align: center;
+        color: white;
+    }
+    .right{
+        flex:3;
+        padding:1px 30px;
+        line-height: 150%;
+        margin-left: 1px;
+        background-color:rgba(0,0,0,0.4 );
+        font-family: 楷体;
+        font-style: italic;
+        color:white;
+    }
+    .footer{
+        border-style:dotted;
+        background-color:rgba(0,0,0,0.4 );
+        text-align:center;
+        padding:3px ;
+        font-family:楷体;
+        color:white;
+        font-size:30px;
+        letter-spacing: 1.5em;
+    }
+    </style>
+</head>
+<body background="http://img.netbian.com/file/2017/0713/40fc5e1c324ddbe211e72d1560691d50.jpg">
+ 
+    <div class="header" id="top">
+        <h1>二百多斤的嘤国大理石</h1>
+     </div>
+     <a href="#top" class="link">
+        <img src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1606548002071&di=6293a0ce94d4570f2d02f985a039812a&imgtype=0&src=http%3A%2F%2Fhbimg.b0.upaiyun.com%2Ffe3253fce6db3f67c8cb14794199a3cd490b11fc5f46-yeu0xs_fw658" 
+        style="width: 100px;height: 100px; padding:30px 30px">
+    </a>
+<div class="container">
+    <div class="left">
+        <input type="botton" onclick="myfunction()"  style="width:500px;height:500px;border:0px;
+        background:url(http://img.doutula.com/production/uploads/image/2018/08/28/20180828463621_JjzimZ.jpg);
+        padding:20px;background-size:100% 100%;"  id="botton1" class="botton_pos"/>
+    <p>点击图片开始学习混元功法！</p>
+     </div>
+
+     <div class="right">
+        <p>
+                诶..朋友们好啊，我是混元形意太极门掌门人——马保国<br>
+                刚才有个朋友问我马老师发生什么事了，我说怎么回事，给我发了几张截图。<br>
+                我一看！嗷！原来是昨天，有两个年轻人。三十多岁，一个体重，九十多公斤，一个体重八十多公斤。<br>
+                他们说，诶...有一个说是我在健身房练功颈椎练坏了，马老师你能不能教教我浑元功法，诶...帮助治疗一下我的颈椎病。<br>
+                我说可以。我说你在健身房练死劲儿，不好用，他不服气。<br>
+                诶...我说小朋友，你两个手来折我一个手指头，他折不动。<br>
+                他说你这也没用。我说我这个有用，这是化劲儿，传统功夫是讲化劲儿的，四两拨千金。<br>
+                二百多斤的英国大力士，都握不动我这一个手指头啊…哈！他非要和我试试，我说可以。<br>
+                我一说完他啪就站起来了，很快啊！然后上来就是一个左正蹬，吭，一个右鞭腿一个左刺拳，我全部防区防出去了啊！<br>
+                防出去以后自然是传统功夫以点到为止，右拳放到他鼻子上没打他。<br>
+                我笑一下准备收拳，因为这时间，按传统功夫的点到为止他已经输了。<br>
+                如果这一拳发力，一拳就把他鼻子打骨折了，放在鼻子上没有打他，他也承认，我先打到他面部。<br>
+                他不知道拳放在他鼻子上，他承认我先打到他面部，<br>
+                啊！我收拳的时间不打了，他突然袭击，左刺拳来打我脸。<br>
+                啊，我大意了啊，没有闪，诶…他的左拳给我眼，啊，右眼，蹭了一下，但没关系啊！<br>
+                他也说，啊他截图也说了，两分多钟以后，当时流眼泪了，捂着眼，我说停停。<br>
+                然后两分钟...钟以后，两分多钟以后诶就好啦，我说小伙子你不讲武德你不懂，我说马老师对不...对不起，我不懂规矩。<br>
+                啊，我是…他说他是乱打的，他可不是乱打的啊，正蹬鞭腿左刺拳，训练有素。<br>
+                后来他说他练过三四年泰拳。啊，看来是，有备而来！<br>
+                这两个年轻人不讲武德，来骗！来偷袭，我六十九岁的老同志。这好吗？这不好！<br>
+                我劝！这位年轻人好自为之，好好反思，以后不要再犯这样的聪明，小聪明啊!<br>
+                呃…武林要以和为贵，要讲武德，不要搞窝里斗。谢谢朋友们！</p>
+        </div>
+</div>
+     
+    <div class="footer">
+        <p>马老师语录</p>
+    </div>
+       
+ <script>   
+       function myfunction(){
+           var openbt;
+            var flag=confirm("不会吧不会吧，不会真有人想秃头叭？？");
+            if(flag){
+              alert("芜湖~~~");
+            openbt=open("http://git.uestc.cn");
+            }
+            else
+            alert("你成功保住了自己的头发~");
+       }
+ </script>
+
+</body>
+</html>
